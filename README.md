@@ -23,7 +23,7 @@ Esta aplicação foi criada com intuito de aprendizado e prática nas tecnologia
 ## Detalhes do filme
 ![image](https://github.com/Frankz1n/movies_lib/assets/90364021/7e7d6670-a292-4853-939b-98318ba1a0a6)
 
-
+## Veja meu site aqui -> https://movies-lib-ecru.vercel.app/
 
 
 Visite nosso site [aqui](https://www.exemplo.com) para começar a explorar nossa coleção de filmes hoje mesmo!
