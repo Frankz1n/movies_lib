@@ -26,9 +26,3 @@ Esta aplicação foi criada com intuito de aprendizado e prática nas tecnologia
 ## Veja meu site aqui -> https://movies-lib-ecru.vercel.app/
 
 
-Visite nosso site [aqui](https://www.exemplo.com) para começar a explorar nossa coleção de filmes hoje mesmo!
-
-Junte-se a nós e mergulhe no maravilhoso mundo do cinema!
-
-![Filmes](link_para_imagem.jpg)
->>>>>>> eb8ce37f63f24f60d7d5f7b2d5a63d03d2f674f3
